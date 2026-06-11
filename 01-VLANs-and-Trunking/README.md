@@ -8,12 +8,6 @@ This project demonstrates the implementation of VLANs and trunk links in a switc
 
 The network consists of multiple switches connected through trunk links. End devices are assigned to separate VLANs to achieve logical network segmentation.
 
-### VLANs Configured
-
-- VLAN 10
-- VLAN 20
-- VLAN 30
-
 ## Tasks Performed
 
 - Created and configured VLANs on Cisco switches
