@@ -1,5 +1,3 @@
-# VLANs and Trunking Lab
-
 ## Objective
 
 Configure VLANs and trunk links to enable communication between multiple switches while maintaining network segmentation.
